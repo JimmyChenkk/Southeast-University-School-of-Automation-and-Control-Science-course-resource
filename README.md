@@ -4,7 +4,7 @@
 我是陈鲲龙，东南大学自动化学院2022级本科生，学号08022311。
 
 ### 仓库目的  
-创建这个仓库的初衷是共享课程学习资料，为学弟学妹们提供帮助、参考、经验和资料。
+创建这个仓库的初衷是共享课程学习资料，为学弟学妹们提供帮助、参考、经验和资料，欢迎补充。--2025/02/22
 
 ### 版权说明  
 我深知知识共享的价值，同时也尊重每一位教授的辛勤付出。因此，本仓库中的所有资料均遵循以下原则：
@@ -24,7 +24,7 @@
 I am Chen Kunlong, an undergraduate student in the School of Automation and Control Science at Southeast University, class of 2022 (Student ID: 08022311).
 
 ### Purpose of This Repository  
-The primary goal of this repository is to share course learning materials and provide assistance, references, and experiences for younger students.
+The primary goal of this repository is to share course learning materials and provide assistance, references, and experiences for younger students.--22/02/2025
 
 ### Copyright Notice  
 While I deeply appreciate the value of knowledge sharing, I also respect the hard work of every professor. Therefore, all materials in this repository adhere to the following principles:
