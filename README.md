@@ -1,7 +1,7 @@
 # 东南大学自动化学院课程资料  
 # Southeast University School of Automation and Control Science Course Resource Repository
 ### 作者  
-我是陈鲲龙，东南大学自动化学院2022级本科生，学号08022311。
+我是陈鲲龙，东南大学自动化学院2022级本科生，自动化专业方向一，学号08022311。
 
 ### 仓库目的  
 创建这个仓库的初衷是共享课程学习资料，为学弟学妹们提供帮助、参考、经验和资料，欢迎补充。--2025/02/22
