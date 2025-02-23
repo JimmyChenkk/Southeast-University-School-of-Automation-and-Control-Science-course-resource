@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>08022311陈鲲龙-人工智能导论作业</title>
+    <link rel="stylesheet" href="08022311ckl.css">
+</head>
+
+<body>
+    <h1>08022311陈鲲龙-人工智能导论作业</h1>
+    <div id="controls">
+        <label for="startCity">起点城市:</label>
+        <select id="startCity">
+            <option value="Arad" selected>Arad</option>
+            <option value="Zerind">Zerind</option>
+            <option value="Oradea">Oradea</option>
+            <option value="Timisoara">Timisoara</option>
+            <option value="Lugoj">Lugoj</option>
+            <option value="Mehadia">Mehadia</option>
+            <option value="Drobeta">Drobeta</option>
+            <option value="Craiova">Craiova</option>
+            <option value="Sibiu">Sibiu</option>
+            <option value="Fagaras">Fagaras</option>
+            <option value="Rimnicu Vilcea">Rimnicu Vilcea</option>
+            <option value="Pitesti">Pitesti</option>
+            <option value="Bucharest">Bucharest</option>
+            <option value="Giurgiu">Giurgiu</option>
+            <option value="Urziceni">Urziceni</option>
+            <option value="Hirsova">Hirsova</option>
+            <option value="Eforie">Eforie</option>
+            <option value="Vaslui">Vaslui</option>
+            <option value="Iasi">Iasi</option>
+            <option value="Neamt">Neamt</option>
+        </select>
+        <label for="goalCity">目标城市:</label>
+        <select id="goalCity">
+            <option value="Arad">Arad</option>
+            <option value="Zerind">Zerind</option>
+            <option value="Oradea">Oradea</option>
+            <option value="Timisoara">Timisoara</option>
+            <option value="Lugoj">Lugoj</option>
+            <option value="Mehadia">Mehadia</option>
+            <option value="Drobeta">Drobeta</option>
+            <option value="Craiova">Craiova</option>
+            <option value="Sibiu">Sibiu</option>
+            <option value="Fagaras">Fagaras</option>
+            <option value="Rimnicu Vilcea">Rimnicu Vilcea</option>
+            <option value="Pitesti">Pitesti</option>
+            <option value="Bucharest" selected>Bucharest</option>
+            <option value="Giurgiu">Giurgiu</option>
+            <option value="Urziceni">Urziceni</option>
+            <option value="Hirsova">Hirsova</option>
+            <option value="Eforie">Eforie</option>
+            <option value="Vaslui">Vaslui</option>
+            <option value="Iasi">Iasi</option>
+            <option value="Neamt">Neamt</option>
+        </select>
+        <br><br>
+        <button onclick="startBFSTreeSearch()">BFS 树搜索</button>
+        <button onclick="startBFSGraphSearch()">BFS 图搜索</button>
+        <button onclick="startDFSTreeSearch()">DFS 树搜索</button>
+        <button onclick="startDFSGraphSearch()">DFS 图搜索</button>
+        <button onclick="startUCSTreeSearch()">UCS 树搜索</button>
+        <button onclick="startUCSGraphSearch()">UCS 图搜索</button>
+        <br><br>
+        <button onclick="startGreedyTreeSearch()">贪婪 树搜索</button>
+        <button onclick="startGreedyGraphSearch()">贪婪 图搜索</button>
+        <button onclick="startAStarTreeSearch()">A* 树算法</button>
+        <button onclick="startAStarGraphSearch()">A* 图算法</button>
+        <button onclick="resetCanvas()">清空还原</button>
+    </div>
+    <div id="result" style="margin-top: 20px; font-size: 1.2em;"></div>
+    <canvas id="mapCanvas" width="600" height="400"></canvas>
+    <script src="08022311ckl.js"></script>
+</body>
+
+</html>
