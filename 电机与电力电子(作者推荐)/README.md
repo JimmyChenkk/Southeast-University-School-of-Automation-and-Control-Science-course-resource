@@ -1,3 +1,7 @@
+- [**电力电子课件、电机报告所附论文、其他资料**](https://pan.baidu.com/s/1h1GCmQODELKuYkOYBWealw)
+- [**电力电子Matlab仿真心得和问题集锦**](https://docs.qq.com/doc/DY3JSUVNLakZTSFFXck1B)
+
+
 <div align="center">
   <strong>单刷全年级 胜率100% 权威 MVP结算界面 抱歉 战斗爽人格顶号了 他强任他强，爷是速通王！</strong><br>
   <strong>经典中典之老艺术家传统艺能：12h从门外到精通，从什么是晶炸管到专业第一</strong><br>
