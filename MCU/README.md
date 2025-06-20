@@ -1,1 +1,3 @@
 - [**东南大学22级自动化大三08022311陈鲲龙暑期学校MCU课程设计《激光打点云台》2024.9 使用芯片为天马STM32F407，工程编译下载平台为STM32IDE**](https://github.com/JimmyChenkk/A-laser-positioning-system-with-two-servos-and-an-OPENMV-camera-powered-by-the-STM32F407)
+
+**学习例程，下载例程，观察实验现象，掌握例程，修改例程，超越例程**
